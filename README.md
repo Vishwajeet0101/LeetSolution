@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0073-set-matrix-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
