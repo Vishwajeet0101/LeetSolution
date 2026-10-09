@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0229-majority-element-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
