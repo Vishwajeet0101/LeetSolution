@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0560-subarray-sum-equals-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0560-subarray-sum-equals-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0229-majority-element-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
 |  |
 | ------- |
