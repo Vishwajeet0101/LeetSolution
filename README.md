@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0704-binary-search) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0704-binary-search) |
 ## Union-Find
 |  |
