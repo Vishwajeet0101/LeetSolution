@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Union-Find
