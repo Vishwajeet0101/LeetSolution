@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1539-kth-missing-positive-number) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VishwajeetNishad/LeetSolution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VishwajeetNishad/LeetSolution/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/VishwajeetNishad/LeetSolution/tree/master/1539-kth-missing-positive-number) |
 ## Union-Find
 |  |
 | ------- |
