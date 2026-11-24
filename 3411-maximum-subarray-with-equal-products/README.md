@@ -3,7 +3,7 @@
 https://leetcode.com/problems/maximum-subarray-with-equal-products/
 
 - **Language:** cpp
-- **Solved:** 2026-11-24 in 5:26 (Study Buddy timer)
+- **Solved:** 2026-11-24 in 13:30 (Study Buddy timer)
 - **Status:** saved from the editor (not an accepted submission yet)
 
 ## My notes
